@@ -1,5 +1,7 @@
 # Cement-Strength-Prediction
 # Overview
+Cement strength is a critical factor in construction projects as it determines the durability and load-bearing capacity of structures. Traditional methods of strength prediction rely heavily on empirical testing, which can be time-consuming and costly. Machine learning techniques offer an alternative approach to predicting cement strength more efficiently and accurately. This project aimed to develop a predictive model for estimating the strength of cement based on various input parameters.
+
 #### 1. Cement 
 (kg in a m^3 mixture): The amount of cement, measured in kilograms, present in one cubic meter of the concrete mixture. Cement is a binding material responsible for providing strength and durability to concrete.
 
@@ -28,7 +30,7 @@
 (MPa, megapascals): The compressive strength of the concrete specimen, measured in megapascals (MPa). Compressive strength is a fundamental property of concrete that indicates its ability to withstand loads or pressure without breaking.
 
 # Dataset
-Given is the variable name, variable type, the measurement unit and a brief description. The concrete compressive strength is the regression problem. The order of this listing corresponds to the order of numerals along the rows of the database.
+Given is the variable name, variable type, the measurement unit, and a brief description. The concrete compressive strength is the regression problem. The order of this listing corresponds to the order of numerals along the rows of the database.
 
 ## Name -- Data Type -- Measurement Unit -- Variable Type
 
