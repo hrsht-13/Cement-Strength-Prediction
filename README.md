@@ -51,3 +51,6 @@ Given is the variable name, variable type, the measurement unit, and a brief des
 ##### Age -- quantitative -- Day (1~365) -- Input Variable
 
 ##### Concrete compressive strength -- quantitative -- MPa -- Output Variable
+
+# Methodology
+# Model Deployment
