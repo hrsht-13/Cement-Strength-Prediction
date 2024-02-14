@@ -59,11 +59,12 @@ Given is the variable name, variable type, the measurement unit, and a brief des
  
  ### Docker
  1. Make sure docker is installed and running in your system
- 2. docker pull ghcr.io/hrsht-13/cementstrengthprediction:v1
- 3. docker run -p 8501:8501 ghcr.io/hrsht-13/cementstrengthprediction:v1
+ 2. ``docker pull ghcr.io/hrsht-13/cementstrengthprediction:v111
+ 3. ``docker run -p 8501:8501 ghcr.io/hrsht-13/cementstrengthprediction:v1``
     
  ### AWS-EC2
 http://16.170.242.51:8501/
+
 EC2 instance is currently terminated
 
 ##### NOTE : There might be a possibility that I would terminate the EC2 instance in the future because of the limited free-tier hours, but the streamlit server will always be running.
