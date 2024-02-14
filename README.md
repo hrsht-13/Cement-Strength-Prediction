@@ -66,5 +66,4 @@ Given is the variable name, variable type, the measurement unit, and a brief des
 http://16.170.242.51:8501/
 EC2 instance is currently terminated
 
-##### NOTE
-There might be a possibility that I would terminate the EC2 instance in the future because of the limited free-tier hours, but the streamlit server will always be running.
+##### NOTE : There might be a possibility that I would terminate the EC2 instance in the future because of the limited free-tier hours, but the streamlit server will always be running.
