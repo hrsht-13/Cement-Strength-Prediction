@@ -54,12 +54,12 @@ Given is the variable name, variable type, the measurement unit, and a brief des
 
 # Methodology
 # Model Deployment
- #### Streamlit 
+ ### Streamlit 
  https://cement-strength-prediction-67vmnh3rpwve7njhlvgmnb.streamlit.app/
  
- #### Docker
+ ### Docker
  1. Make sure docker is installed and running in your system
  2. docker pull ghcr.io/hrsht-13/cementstrengthprediction:v1
  3. docker run -p 8501:8501 ghcr.io/hrsht-13/cementstrengthprediction:v1
     
- #### AWS
+ ### AWS
