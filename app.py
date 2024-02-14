@@ -2,6 +2,7 @@ import streamlit as st
 import time
 import pickle 
 import numpy as np
+import sklearn
 
 st.title("CEMENET STRENGTH PREDICTOR")
 st.info("Cement strength is a critical factor in construction projects as it determines the durability and load-bearing capacity of structures. Traditional methods of strength prediction rely heavily on empirical testing, which can be time-consuming and costly. Machine learning techniques offer an alternative approach to predicting cement strength more efficiently and accurately.")
