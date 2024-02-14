@@ -54,3 +54,7 @@ Given is the variable name, variable type, the measurement unit, and a brief des
 
 # Methodology
 # Model Deployment
+ #### Streamlit 
+ https://cement-strength-prediction-67vmnh3rpwve7njhlvgmnb.streamlit.app/
+ #### Docker
+ #### AWS
