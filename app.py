@@ -22,7 +22,7 @@ st.warning("The amount of fine aggregate, measured in kilograms, included in one
 age=st.number_input("Age (day)")
 st.warning("The age of the concrete specimen, measured in days, at which the compressive strength is determined. Concrete gains strength over time as the hydration process progresses, so the age of the concrete is an important factor in assessing its compressive strength.",icon="ℹ️")
 
-model=pickle.load(open("/rfRmodel.pkl","rb"))
+model=pickle.load(open("rfRmodel.pkl","rb"))
 
 
 btn=st.button("Predict Cement Strength", type="primary")
